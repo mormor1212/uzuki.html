@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Information</title>
+
+</head>
+
+<body>
+
+    <!-- Header Section -->
+    <h1>MY PROFILE</h1>
+    <!-- Profile Picture -->
+    <img src="first.jpg" alt="Profile Picture" width="200" height="150">
+
+    <!-- My Information -->
+    <h2>MY PERSONAL INFORMATION</h2>
+    <table>
+        <tr><th>NAME:</th><td><em>Morsua, Neilbert Hure.</em></td></tr>
+        <tr><th>AGE:</th><td><em>23 yrs.old</em></td></tr>
+        <tr><th>DATE OF BIRTH:</th><td><em>November 28, 2001</em></td></tr>
+        <tr><th>ADDRESS:</th><td><em>Purok 7 Manlayag, Tukuran, Zamboanga del Sur</em></td></tr>
+        <tr><th>GENDER:</th><td><em>Male</em></td></tr>
+        <tr><th>CIVIL STATUS:</th><td><em>Single</em></td></tr>
+        <tr><th>RELIGION:</th><td><em>PMAi PENTECOSTAL</em></td></tr>
+        <tr><th>CITIZENSHIP:</th><td><em>Filipino</em></td></tr>
+    </table>
+
+    <!-- Contact Info -->
+    <h3>CONTACT INFO</h3>
+    <table>
+        <tr><th>Phone No.</th><td><em>09706995208</em></td></tr>
+        <tr><th>Email:</th><td><a href="mailto:morsuaneilbert3@gmail.com">Tap here</a></td></tr>
+        <tr><th>Facebook:</th><td><a href="https://www.facebook.com/knowing.me.not">Tap Here</a></td></tr>
+    </table>
+
+    <!-- Favorite Verses -->
+    <h4>MY FAVORITE VERSES</h4>
+    <ul>
+        <li>Ecclesiastes 3:1; "To everything there is a season, and a time to every purpose under the heaven"</li>
+        <li>Proverbs 27:1; "Do not boast about tomorrow, for you do not know what a day may bring forth."</li>
+    </ul>
+
+    <!-- Parents Information -->
+    <h5>MY PARENT'S INFORMATION</h5>
+    <table>
+        <tr><th>FATHER'S NAME:</th><td>Morsua, Danilo Limpag.</td></tr>
+        <tr><th>AGE:</th><td>50 yrs.old</td></tr>
+        <tr><th>DATE OF BIRTH:</th><td>May 9, 1974</td></tr>
+        <tr><th>MOTHER'S MAIDEN NAME:</th><td>Hure, Annaliza Padayogdog.</td></tr>
+        <tr><th>AGE:</th><td>41 yrs. old</td></tr>
+        <tr><th>DATE OF BIRTH:</th><td>April 11, 1983</td></tr>
+    </table>
+
+</body>
+
+</html>
